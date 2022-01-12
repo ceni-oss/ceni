@@ -1,4 +1,3 @@
-      http://geoiptv.me:8880/live/cenigit/154623/29267.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL:  Klan Plus HD" tvg-logo="http://tvstar.cc:8880/chimg/9794065152.png" group-title="Albania TV",AL:  Klan Plus HD
 http://geoiptv.me:8880/live/cenigit/154623/29259.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL: GOLD HD 1" tvg-logo="http://tvstar.cc:8880/chimg/6916730441.png" group-title="Albania TV",AL: GOLD HD 1
